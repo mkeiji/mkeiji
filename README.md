@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Keiji</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
+<p align="center">
+	<a href="https://site.keijidev.com" target="_blank">
+		<img alt="Website" src="https://img.shields.io/website?label=keijidev.com&style=flat-square&url=https%3A%2F%2Fsite.keijidev.com">
+	</a>
+</p>
+
+<br/>
 
 - 🔭 Fun-Fact about me: My favorite editor is [nVim/Vim](https://neovim.io/)
 - 🌱 I’m currently learning [Nextjs](https://nextjs.org/) (a react framework)
