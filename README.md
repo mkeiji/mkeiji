@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/kgmaeda" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kgmaeda" height="30" width="40" />
+		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="kgmaeda" height="40" width="40" />
 	</a>
 </p>
 
@@ -39,7 +39,7 @@
 <h3 align="left">Current working with Front-End Frameworks:</h3>
 <p align="left">
 	<a href="https://angular.io" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" width="40" height="40"/>
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
