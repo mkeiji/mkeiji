@@ -8,9 +8,9 @@
 
 <br/>
 
-- 🔭 Fun-Fact about me: My favorite editor is [nVim/Vim](https://neovim.io/)
-- 🌱 I’m currently learning [Nextjs](https://nextjs.org/) (a react framework)
-- 👨‍💻 All of my projects are available at [https://gitlab.com/mkeiji](https://gitlab.com/mkeiji)
+- 🔭 Fun-Fact about me: I run Linux as my daily driver OS
+- 🌱 I’m currently working on [kadvisor](https://github.com/mkeiji/kadvisor)
+- 👨‍💻 All of my projects are available at [https://github.com/mkeiji](https://github.com/mkeiji)
 - 📫 How to reach me [https://www.linkedin.com/in/kgmaeda](https://www.linkedin.com/in/kgmaeda)
 - ⚡ More about me at [https://site.keijidev.com](https://site.keijidev.com)
 
