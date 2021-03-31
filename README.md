@@ -76,6 +76,9 @@
 	<a href="https://pkg.go.dev/github.com/golang/mock/gomock" target="_blank">
 		<img src="https://raw.githubusercontent.com/mkeiji/mkeiji/main/icons/gomock.svg" alt="gomock" width="40" height="40"/>
 	</a>
+	<a href="https://micronaut.io/" target="_blank">
+		<img src="https://raw.githubusercontent.com/mkeiji/mkeiji/main/icons/micronaut.svg" alt="micronaut" width="40" height="40"/>
+	</a>
 	<a href="https://spring.io/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 	</a>
