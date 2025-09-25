@@ -9,7 +9,7 @@
 <br/>
 
 - 🔭 Fun-Fact about me: I run Linux as my daily driver OS
-- 🌱 I’m currently maintaining [kshoplist](https://github.com/mkeiji/kshoplist) and [kshoplist-srv](https://github.com/mkeiji/kshoplist-srv)
+- 🌱 I’m currently learning AI/ML with [kmodel1](https://github.com/mkeiji/kmodel1) project
 - 👨‍💻 All of my projects are available at [https://github.com/mkeiji](https://github.com/mkeiji)
 - 📫 How to reach me [https://www.linkedin.com/in/kgmaeda](https://www.linkedin.com/in/kgmaeda)
 - ⚡ More about me at [https://site.keijidev.com](https://site.keijidev.com)
